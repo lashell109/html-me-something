@@ -1,0 +1,58 @@
+h1 {
+    font-size: 40px;
+    color: darkolivegreen;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+section {
+    padding: 25px 50px 50px 100px;
+}
+
+p {
+    color: blue;
+    margin: 25px 50px 50px 100px;
+}
+
+.img-family {
+    width: 600px;
+}
+
+.img-manny {
+    width: 400px;
+}
+
+.img-aaliyah {
+    width: 400px;
+}
+
+.img-cameron {
+    width: 400px;
+}
+
+.img-christopher {
+    width: 400px;
+}
+
+.img-christee {
+    width: 400px;
+}
+
+.img-chelsee {
+    width: 300px;
+}
+
+.img-grandbabies {
+    width: 300px;
+}
+
+.img-cydnee {
+    width: 300px;
+}
